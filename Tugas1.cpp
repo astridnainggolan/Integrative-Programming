@@ -3,13 +3,16 @@ using namespace std;
 
 int main()
 {
-int a = 10;
-int b = 2;
+int a, b;
+  
+cout<<"Masukkan nilai a : ";
+cin>>a;
+cout<<"Masukkan nilai b : ";
+cin>>b;
 
-cout<<"Nilai a = "<<a<<endl;
+cout<<"\nNilai a = "<<a<<endl;
 cout<<"Nilai b = "<<b<<endl<<endl;
 
-cout<<"Hasil pembagian = "<<a/b<<endl;
 
 return 0;
 }
