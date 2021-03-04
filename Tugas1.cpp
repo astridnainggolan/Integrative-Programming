@@ -9,7 +9,7 @@ int b = 2;
 cout<<"Nilai a = "<<a<<endl;
 cout<<"Nilai b = "<<b<<endl<<endl;
 
-cout<<"Hasil perkalian = "<<a*b<<endl;
+cout<<"Hasil pembagian = "<<a/b<<endl;
 
 return 0;
 }
